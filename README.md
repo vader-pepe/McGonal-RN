@@ -25,7 +25,7 @@ npm run test
 
 ## Author
 
-👤 **Ihsan**
+👤 **Chad Bro**
 
 * Github: [@chadwithz](https://github.com/chadwithz)
 
