@@ -27,7 +27,7 @@ npm run test
 
 👤 **Ihsan**
 
-* Github: [@ihsankl](https://github.com/chadwithz)
+* Github: [@chadwithz](https://github.com/chadwithz)
 
 ## Show your support
 
